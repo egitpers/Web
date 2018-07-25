@@ -1,0 +1,4 @@
+files:
+  - source: /**/src/main/resources/fi/post/daas/registers/enrichment/web/*.html
+    translation: >-
+      /**/src/main/resources/fi/post/daas/registers/enrichment/web/%two_letters_code%*.html
