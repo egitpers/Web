@@ -1,4 +1,4 @@
 files:
   - source: /**/src/main/resources/fi/post/daas/registers/enrichment/web/
     translation: >-
-      /**/src/main/resources/fi/post/daas/registers/enrichment/web/%two_letters_code%.%original_file_name%
+      /**/src/main/resources/fi/post/daas/registers/enrichment/web/Crowdin/%two_letters_code%.%original_file_name%
